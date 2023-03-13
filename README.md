@@ -1,5 +1,12 @@
 ## To create a draft application with Create functionality
 
+## To run and watch for changes
+```
+npm install
+npx cds watch
+```
+
+
 ### Follow the tutorial here
 https://developers.sap.com/tutorials/fiori-tools-cap-create-application.html
 
